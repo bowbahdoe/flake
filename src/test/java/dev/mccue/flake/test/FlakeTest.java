@@ -10,6 +10,11 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
+// ------------------------------------------------------------------------------------------
+//  Copyright © 2019-2024 Bruno Bonacci
+//  source: https://github.com/BrunoBonacci/mulog
+// ------------------------------------------------------------------------------------------
+
 class FlakeTest {
     @Test
     public void flakeStringRepr() {

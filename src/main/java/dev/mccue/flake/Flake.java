@@ -5,6 +5,11 @@ import java.time.Instant;
 import java.util.Objects;
 import java.util.concurrent.ThreadLocalRandom;
 
+// ------------------------------------------------------------------------------------------
+//  Copyright © 2019-2024 Bruno Bonacci
+//  source: https://github.com/BrunoBonacci/mulog
+// ------------------------------------------------------------------------------------------
+
 // Taken from mulog
 
 /**
